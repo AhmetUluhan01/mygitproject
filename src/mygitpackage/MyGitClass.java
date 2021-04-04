@@ -5,6 +5,7 @@ public class MyGitClass {
 		System.out.println("Version 1");
 		System.out.println("my second commit");
 		System.out.println("ucuncu commit");
+		System.out.println("4th commit");
 		
 		
 		
