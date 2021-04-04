@@ -7,7 +7,7 @@ public class MyGitClass {
 		System.out.println("ucuncu commit");
 		System.out.println("4th commit");
 		System.out.println("uzak sunucudaki kodum");//github.com'da yazdigim kod
-		System.out.println("Baskasinin kodu");
+		
 		
 		
 		
